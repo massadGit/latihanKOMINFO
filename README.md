@@ -1,0 +1,2 @@
+# latihanKOMINFO
+progate
